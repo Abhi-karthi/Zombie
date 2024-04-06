@@ -56,7 +56,6 @@ down = False
 gliding = False
 attacking = False
 title = pygame.image.load("Good_Title.png")
-
 bg = pygame.image.load("graveyardtilesetnew/png/BG.png")
 bg = pygame.transform.scale(bg, (750, 500))
 deadbush = pygame.image.load("graveyardtilesetnew/png/Objects/DeadBush.png")
